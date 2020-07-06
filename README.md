@@ -11,6 +11,32 @@
 Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
 
 
+### Slack
+
+* Visit [Slack's](https://slack.com/downloads/mac) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+* Sign in to the zcw workspace.
+
+
+### Discord
+
+* Visit [Discord's](https://discord.com/new/download) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+* Join the ZCW Active Cohort channel.
+
+
+### gmail
+
+* Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
+
+
+### github
+
+* Visit [github.com](https://github.com/) and signup for an account.  
+
+
 ### Terminal
 
 #### Option 1
@@ -83,32 +109,6 @@ chsh -s /bin/bash
 * Visit [MySql's](https://dev.mysql.com/downloads/mysql/) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
-
-
-### Slack
-
-* Visit [Slack's](https://slack.com/downloads/mac) download page.
-* Download the dmg for the latest release.
-* Use the downloaded dmg to install the application.
-* Sign in to the zcw workspace.
-
-
-### Discord
-
-* Visit [Discord's](https://discord.com/new/download) download page.
-* Download the dmg for the latest release.
-* Use the downloaded dmg to install the application.
-* Join the ZipCodeRocks channel.
-
-
-### gmail
-
-* Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
-
-
-### github
-
-* Visit [github.com](https://github.com/) and signup for an account.  
 
 
 ### Postman
