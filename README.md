@@ -107,7 +107,7 @@ chsh -s /bin/bash
 
 ### pgAdmin 
 
-* Vist[pgAdmin's](https://www.pgadmin.org) download page.
+* Vist [pgAdmin's](https://www.pgadmin.org) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
