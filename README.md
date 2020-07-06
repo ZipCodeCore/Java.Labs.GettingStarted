@@ -81,7 +81,7 @@ chsh -s /bin/bash
 ### Brew
 
 * Visit [https://brew.sh/](https://brew.sh/).
-* Follow the directions under "Intall Homebrew".
+* Follow the directions under "Install Homebrew".
 
 
 ### JDK 
