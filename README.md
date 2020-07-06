@@ -93,6 +93,14 @@ chsh -s /bin/bash
 * Sign in to the zcw workspace.
 
 
+### Discord
+
+* Visit [Discord's](https://discord.com/new/download) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+* Join the ZipCodeRocks channel.
+
+
 ### gmail
 
 * Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
