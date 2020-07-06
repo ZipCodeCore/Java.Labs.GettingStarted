@@ -77,6 +77,12 @@ Using Terminal, issue the following command:
 chsh -s /bin/bash
 ```
 
+Validate default shell
+```bash
+echo $SHELL
+/bin/bash
+```
+
 
 ### Brew
 
