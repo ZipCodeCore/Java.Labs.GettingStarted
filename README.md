@@ -104,9 +104,24 @@ chsh -s /bin/bash
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
+
+### pgAdmin 
+
+* Vist[pgAdmin's](https://www.pgadmin.org) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+
+
 ### MySQL
 
-* Visit [MySql's](https://dev.mysql.com/downloads/mysql/) download page.
+* Visit [MySQL's](https://dev.mysql.com/downloads/mysql/) download page.
+* Download the dmg for the latest release.
+* Use the downloaded dmg to install the application.
+
+
+### MySQL Workbench
+
+* Visit [MySQL's](https://dev.mysql.com/downloads/workbench/) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
 
