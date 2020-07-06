@@ -58,6 +58,13 @@ chsh -s /bin/bash
 * Follow the directions under "Intall Homebrew".
 
 
+### JDK 
+
+* Visit [Oracle's](https://www.oracle.com/java/technologies/javase-downloads.html) download page for the Oracle JDK.
+* Download the dmg for Java JDK 1.8.
+* Use the downloaded dmg to install the application.
+
+
 ### IntelliJ
 
 * Visit [JetBrains'](https://www.jetbrains.com/idea/download/#section=mac) download page for IntelliJ.
