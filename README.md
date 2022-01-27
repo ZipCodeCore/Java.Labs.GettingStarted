@@ -2,14 +2,14 @@
 
 
 **Important**: It should go without saying that anytime you are asked to create an account you should ALWAYS:
-* Make sure to use a professional username/handle. We recommend the username incorporates your name. 
-* Be sure to add an appropriate avatar to your profile. 
+
+* *Make sure to use a professional username/handle.* We recommend the username incorporates your name. 
+* Be sure to add an appropriate avatar (picture or image) to your profile. 
 
 
 ### Passwords
 
 Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
-
 
 ### Slack
 
@@ -30,14 +30,19 @@ Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](
 ### gmail
 
 * Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
+* make *sure* you choose a *business friendly* username.
 
+### iCloud
+
+Use your spiffy new business gmail account to create an iCloud account (if you don't already have one from your iPhone).
+Even if you're an *andoid-head*, use iCloud for certain things when you're using Apple products. You can always login later on [iCloud](iCloud.com) to access stuff from windoze or android.
 
 ### github
 
 * Visit [github.com](https://github.com/) and signup for an account.  
 
 
-### Terminal
+### Terminal/Shell
 
 #### Option 1
 * Command (or Cmd) ⌘ - Space bar to open the Spotlight search field. 
@@ -58,7 +63,7 @@ Using Terminal, issue the following command:
 git --version
 ```
 
-This should return the a line similar to:  
+This should return the a line similar (or an even later version) to:  
 ```bash
 git version 2.21.1 (Apple Git-122.3)
 ```
@@ -67,22 +72,6 @@ You may need run the following in order to install git along with other various 
 ```bash
 xcode-select --install
 ```
-
-
-### Change default shell to bash
-
-Using Terminal, issue the following command: 
-
-```bash
-chsh -s /bin/bash
-```
-
-Validate default shell
-```bash
-echo $SHELL
-/bin/bash
-```
-
 
 ### Brew
 
@@ -103,6 +92,23 @@ echo $SHELL
 * Download the dmg for the Community version for Mac.
 * Use the downloaded dmg to install the application.
 
+(OR)
+
+#### Installing IntelliJ
+
+1. First begin by installing HomeBrew by copying and pasting the command below into the terminal
+    * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+2. After Java has been installed, copy and paste the following command in the terminal
+    * `brew cask install intellij-idea`
+3. Upon launching IntelliJ, ensure the [Apache Maven](https://maven.apache.org/) plugin is enabled.
+   * From the menu bar found at the top of application, select `Plugins`, and ensure `Maven` is checked.
+4. Ensure that a project is opened via its `pom.xml` located at the _root directory_ of the project.
+   * When prompted, select `Open as Project`.
+   * If prompted, select `Delete Existing Project and Import`.
+    
+# End of First Day Installs
+
+## These will be done later:
 
 ### Postgres App
 
