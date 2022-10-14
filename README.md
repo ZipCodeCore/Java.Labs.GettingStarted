@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started (on Day One)
 
 
 **Important**: It should go without saying that anytime you are asked to create an account you should ALWAYS:
