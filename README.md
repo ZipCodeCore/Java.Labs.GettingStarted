@@ -11,6 +11,8 @@
 
 Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
 
+The best bet for this course is to just use the built-in Mac password manager on the laptop.
+
 ### Slack
 
 * Visit [Slack's](https://slack.com/downloads/mac) download page.
@@ -75,6 +77,7 @@ xcode-select --install
 
 ### Brew
 
+* Using terminal,
 * Visit [https://brew.sh/](https://brew.sh/).
 * Follow the directions under "Install Homebrew".
 
@@ -89,23 +92,9 @@ xcode-select --install
 ### IntelliJ
 
 * Visit [JetBrains'](https://www.jetbrains.com/idea/download/#section=mac) download page for IntelliJ.
-* Download the dmg for the Community version for Mac.
+* Download the dmg for the **Community** version for Mac.
 * Use the downloaded dmg to install the application.
 
-(OR)
-
-#### Installing IntelliJ
-
-1. First begin by installing HomeBrew by copying and pasting the command below into the terminal
-    * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-2. After Java has been installed, copy and paste the following command in the terminal
-    * `brew cask install intellij-idea`
-3. Upon launching IntelliJ, ensure the [Apache Maven](https://maven.apache.org/) plugin is enabled.
-   * From the menu bar found at the top of application, select `Plugins`, and ensure `Maven` is checked.
-4. Ensure that a project is opened via its `pom.xml` located at the _root directory_ of the project.
-   * When prompted, select `Open as Project`.
-   * If prompted, select `Delete Existing Project and Import`.
-    
 # End of First Day Installs
 
 ## These will be done later:
