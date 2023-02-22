@@ -86,6 +86,7 @@ xcode-select --install
 
 * Visit [Amazon's 'Corretto' JDK](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html) download page for the Amazon JDK.
 * Download the PKG file for Corretto JDK 11 - BE SURE TO DOWNLOAD for Platform __macOS aarch64__
+  * https://corretto.aws/downloads/latest/amazon-corretto-11-aarch64-macos-jdk.pkg
 * Use the downloaded .pkg file to install the application.
 
 
