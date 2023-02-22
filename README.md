@@ -1,17 +1,39 @@
 # Getting Started (on Day One)
 
 
+Get your Mac onto the classroom wifi. How? Look around.
+
 **Important**: It should go without saying that anytime you are asked to create an account you should ALWAYS:
 
 * *Make sure to use a professional username/handle.* We recommend the username incorporates your name. 
 * Be sure to add an appropriate avatar (picture or image) to your profile. 
 
 
+
+### gmail
+
+IF you have not already gotten a _professional email address_ for use within the course
+
+* Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
+* make *sure* you choose a *business friendly* username.
+
+### github
+
+If you haven't already, 
+
+* Visit [github.com](https://github.com/) and signup for an account.  
+
+### iCloud
+
+Use your spiffy new business gmail account to create an iCloud account (if you don't already have one from your iPhone).
+Even if you're an *android-head*, use iCloud for certain things when you're using Apple products. You can always login later on [iCloud](iCloud.com) to access stuff from windoze or android.
+
 ### Passwords
 
-Consider a password manager like [enpass](https://www.enpass.io/) or [lastpass](https://lastpass.com/) to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
+Use the built-in macOS password manager to manage all of your accounts. (This way you can keep track of your Admin password for MySQL, which I guarantee you will otherwise forget.)
+Be sure to get a free iCloud account using your "professional email address" if you don't already have one tied to an iPhone.
 
-The best bet for this course is to just use the built-in Mac password manager on the laptop.
+DO NOT USE "Find My Mac" - It makes Renee's life terrible, and you don't want that. Nope, you surely don't.
 
 ### Slack
 
@@ -26,22 +48,7 @@ The best bet for this course is to just use the built-in Mac password manager on
 * Visit [Discord's](https://discord.com/new/download) download page.
 * Download the dmg for the latest release.
 * Use the downloaded dmg to install the application.
-* Join the ZCW Active Cohort channel.
-
-
-### gmail
-
-* Visit [gmail.com](https://www.google.com/gmail/about/) and create an account.
-* make *sure* you choose a *business friendly* username.
-
-### iCloud
-
-Use your spiffy new business gmail account to create an iCloud account (if you don't already have one from your iPhone).
-Even if you're an *andoid-head*, use iCloud for certain things when you're using Apple products. You can always login later on [iCloud](iCloud.com) to access stuff from windoze or android.
-
-### github
-
-* Visit [github.com](https://github.com/) and signup for an account.  
+* Join the ZCW Active Cohort channel at https://discord.gg/7KbwdZqh
 
 
 ### Terminal/Shell
@@ -57,6 +64,7 @@ Even if you're an *andoid-head*, use iCloud for certain things when you're using
 * Navigate to /Applications/Utilities/
 * Double click on Terminal.app
 
+Good. Now you're getting acclimated.
 
 ### git
 
