@@ -84,9 +84,9 @@ xcode-select --install
 
 ### JDK 
 
-* Visit [Oracle's](https://www.oracle.com/java/technologies/javase-downloads.html) download page for the Oracle JDK.
-* Download the dmg for Java JDK 1.8.
-* Use the downloaded dmg to install the application.
+* Visit [Amazon's 'Corretto' JDK](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html) download page for the Amazon JDK.
+* Download the PKG file for Corretto JDK 11 - BE SURE TO DOWNLOAD for Platform __macOS aarch64__
+* Use the downloaded .pkg file to install the application.
 
 
 ### IntelliJ
