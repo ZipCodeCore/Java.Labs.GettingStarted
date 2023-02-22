@@ -97,6 +97,9 @@ xcode-select --install
   * https://corretto.aws/downloads/latest/amazon-corretto-11-aarch64-macos-jdk.pkg
 * Use the downloaded .pkg file to install the application.
 
+### BlueJ
+
+* Download the Mac version of BlueJ at https://www.bluej.org
 
 ### IntelliJ
 
@@ -106,7 +109,10 @@ xcode-select --install
 
 # End of First Day Installs
 
-## These will be done later:
+:upside_down_face:
+
+
+### These will be done later:
 
 ### Postgres App
 
