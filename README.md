@@ -92,16 +92,11 @@ xcode-select --install
 
 ### JDK 
 
-* Visit [Amazon's 'Corretto' JDK](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/macos-install.html) download page for the Amazon JDK.
-* Download the PKG file for Corretto JDK 11 - BE SURE TO DOWNLOAD for Platform __macOS aarch64__
-  * https://corretto.aws/downloads/latest/amazon-corretto-11-aarch64-macos-jdk.pkg
+* Download BellSoft's Liberica JDK 17 FULL
+* BE SURE TO DOWNLOAD for Platform __macOS aarch64__
 * Use the downloaded .pkg file to install the application.
 
-### BlueJ
-
-* Download the Mac version of BlueJ at https://www.bluej.org
-
-### IntelliJ
+### IntelliJ - Community
 
 * Visit [JetBrains'](https://www.jetbrains.com/idea/download/#section=mac) download page for IntelliJ.
 * Download the dmg for the **Community** version for Mac.
